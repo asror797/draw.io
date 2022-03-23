@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "admin",
+        "cost": "12345678",
+        "category": "asror@gmail.com",
+        "image": "https://dmekdekd.com/dekde.png"
+    },
+    {
+        "id": 2,
+        "name": "admin",
+        "cost": "12345678",
+        "category": "asror@gmail.com",
+        "image": "https://dmekdekd.com/dekde.png"
+    },
+    {
+        "id": 3,
+        "name": "iphone 8 ",
+        "cost": "250$",
+        "category": "Phone",
+        "image": "https://dmekdekd.com/dekde.png"
+    }
+]
+
+
+
